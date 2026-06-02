@@ -3,7 +3,7 @@
 ## Overview
 A mathematical investigation into necessary vs. sufficient conditions 
 for linear independence of ODE solutions using the Wronskian determinant.
-Course project for Mathematics IV, BSDS-II, Indian Statistical Institute 
+Course project for Mathematics IV, BSDS-II (4th semester), Indian Statistical Institute 
 Bangalore (May 2026). Instructor: Prof. Ramij Rahaman.
 
 ## The Question
