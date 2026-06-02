@@ -1,15 +1,15 @@
 # Beyond the Wronskian: Linear Independence of ODE Solutions
 
 ## Overview
-A mathematical investigation into necessary vs. sufficient conditions 
+A mathematical investigation into necessary vs. sufficient conditions
 for linear independence of ODE solutions using the Wronskian determinant.
-Course project for Mathematics IV, BSDS-II (4th semester), Indian Statistical Institute 
-Bangalore (May 2026). Instructor: Prof. Ramij Rahaman.
+Course project for Mathematics IV, BSDS (Semester IV), Indian Statistical
+Institute Bangalore (May 2026). Instructor: Prof. Ramij Rahaman.
 
 ## The Question
-If W(x) = 0 everywhere on an interval, must the functions be linearly 
-dependent? The answer is surprisingly **no** — and understanding why 
-doesn't break ODE theory is the core of this project.
+If W(x) = 0 everywhere on an interval, must the functions be linearly
+dependent? The answer is surprisingly **no** — and understanding why
+this doesn't break ODE theory is the core of this project.
 
 ## What's in this repo
 - `Beyond_The_Wronskian_Report.pdf` — full written report
